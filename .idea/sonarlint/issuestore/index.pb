@@ -9,3 +9,5 @@ Q
 !contracts/efficiency-project.clar,1/c/1c7436f279b3e1fd548ea5779ef2d317cbfdeee0
 T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
+S
+#contracts/savings-verification.clar,4/c/4c7db1f62be3222e81200f9ef4d69f76a5590408
