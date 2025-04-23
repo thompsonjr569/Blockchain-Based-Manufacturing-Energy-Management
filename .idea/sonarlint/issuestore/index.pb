@@ -7,3 +7,5 @@ R
 "tests/consumption-baseline.test.ts,6/a/6a113b1ac48dad8ad99c784723b98e97c3d7c51e
 Q
 !contracts/efficiency-project.clar,1/c/1c7436f279b3e1fd548ea5779ef2d317cbfdeee0
+T
+$contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
